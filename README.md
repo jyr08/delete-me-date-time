@@ -14,3 +14,5 @@
 
 ## Citations
 * List your citations here
+*[Favicon.io](https://www.favicon.io)
+*[Font Share](https://www.fontshare.com/)
